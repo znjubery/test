@@ -7,9 +7,9 @@ This is a companion repository of the submitted manuscript "Using Machine Learni
 
 Nodule detection: This section takes a root image as the input and draws bounding boxes around the detected nodules. The model was based on a RetinaNet on a ResNet50-FPN backbone. The model was trained using ~140 diverse root samples. The AP of the model on ~30 test samples was 0.62. The base code of this model was borrowed from https://github.com/fizyr/keras-retinanet. We introduced anchor selection based on the natural size distribution of nodules.
 
+![SNAP_Example](/images/input_snap_snap2.png)
 
-
-# [COFE : Core rOot Feature Extraction(https://bitbucket.org/baskargroup/cofe/src/master/)  
+# [COFE :Core rOot Feature Extraction](https://bitbucket.org/baskargroup/cofe/src/master/)  
 
 Software developed to analyze crop plant's excavated mature root
 
