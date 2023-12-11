@@ -9,7 +9,7 @@ Nodule detection: This section takes a root image as the input and draws boundin
 
 
 
-# [COFE : Core rOot Feature Extraction(https://bitbucket.org/baskargroup/cofe/src/master/)https://bitbucket.org/baskargroup/cofe/src/master/)  
+# [COFE : Core rOot Feature Extraction(https://bitbucket.org/baskargroup/cofe/src/master/)  
 
 Software developed to analyze crop plant's excavated mature root
 
